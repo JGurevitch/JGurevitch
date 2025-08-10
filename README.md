@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is a comment from the workshop at ESA2025
 <!--
 **JGurevitch/JGurevitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
